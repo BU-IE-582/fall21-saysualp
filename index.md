@@ -13,3 +13,7 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-saysual
 # Homework 3 (6/12/2021)
 
 [Report](https://bu-ie-582.github.io/fall21-saysualp/html/IE582_Fall21_Homework3.html) including R codes for Homework 3
+
+# Homework 4 (27/12/2021)
+
+[Report](https://bu-ie-582.github.io/fall21-saysualp/html/IE582_Fall21_Homework4.html) including R codes for Homework 4
