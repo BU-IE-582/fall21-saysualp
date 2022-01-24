@@ -20,4 +20,4 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-saysual
 
 # Project (24/01/2022)
 
-[Report, Codes](https://bu-ie-582.github.io/fall21-sametozturkk/) prepared with team-mate for final project
+Hyperlink to team-mate's journal including [Report, Codes](https://bu-ie-582.github.io/fall21-sametozturkk/) prepared for final project
