@@ -21,3 +21,7 @@ This is my [Progress Journal website](https://bu-ie-582.github.io/fall21-saysual
 # Project (24/01/2022)
 
 Hyperlink to team-mate's journal including [Report, Codes](https://bu-ie-582.github.io/fall21-sametozturkk/) prepared for final project
+
+# Homework 5 (27/01/2022)
+
+[Report](https://bu-ie-582.github.io/fall21-saysualp/html/IE582_Fall21_Homework5.html) including R codes for Homework 5
